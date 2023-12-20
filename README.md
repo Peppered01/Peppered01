@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Peppered01
+- 👀 I’m interested in cameras, video and guitar
+- 🌱 I’m currently learning Python2
